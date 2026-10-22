@@ -1,0 +1,192 @@
+{
+  "study_date": "2026-10-20",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "scenarios": [
+    {
+      "id": "baseline_N30",
+      "parameters": {
+        "n_students": 30,
+        "capacities": [
+          15,
+          15,
+          15
+        ],
+        "favourite_shares": [
+          0.6,
+          0.25,
+          0.15
+        ],
+        "alternative_values": [
+          0.3,
+          0.8
+        ],
+        "switching_cost": 0.05,
+        "expected_departure": 0.1,
+        "rank_update_interval": 1,
+        "prior_multiplier": 1,
+        "n_rounds": 12,
+        "approval_rounds": [
+          3,
+          6,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "id": "baseline_N60",
+      "parameters": {
+        "n_students": 60,
+        "capacities": [
+          15,
+          15,
+          15
+        ],
+        "favourite_shares": [
+          0.6,
+          0.25,
+          0.15
+        ],
+        "alternative_values": [
+          0.3,
+          0.8
+        ],
+        "switching_cost": 0.05,
+        "expected_departure": 0.1,
+        "rank_update_interval": 1,
+        "prior_multiplier": 1,
+        "n_rounds": 12,
+        "approval_rounds": [
+          3,
+          6,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "id": "baseline_N90",
+      "parameters": {
+        "n_students": 90,
+        "capacities": [
+          15,
+          15,
+          15
+        ],
+        "favourite_shares": [
+          0.6,
+          0.25,
+          0.15
+        ],
+        "alternative_values": [
+          0.3,
+          0.8
+        ],
+        "switching_cost": 0.05,
+        "expected_departure": 0.1,
+        "rank_update_interval": 1,
+        "prior_multiplier": 1,
+        "n_rounds": 12,
+        "approval_rounds": [
+          3,
+          6,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "id": "higher_cost_N60",
+      "parameters": {
+        "n_students": 60,
+        "capacities": [
+          15,
+          15,
+          15
+        ],
+        "favourite_shares": [
+          0.6,
+          0.25,
+          0.15
+        ],
+        "alternative_values": [
+          0.3,
+          0.8
+        ],
+        "switching_cost": 0.15,
+        "expected_departure": 0.1,
+        "rank_update_interval": 1,
+        "prior_multiplier": 1,
+        "n_rounds": 12,
+        "approval_rounds": [
+          3,
+          6,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "id": "slower_rank_N60",
+      "parameters": {
+        "n_students": 60,
+        "capacities": [
+          15,
+          15,
+          15
+        ],
+        "favourite_shares": [
+          0.6,
+          0.25,
+          0.15
+        ],
+        "alternative_values": [
+          0.3,
+          0.8
+        ],
+        "switching_cost": 0.05,
+        "expected_departure": 0.1,
+        "rank_update_interval": 3,
+        "prior_multiplier": 1,
+        "n_rounds": 12,
+        "approval_rounds": [
+          3,
+          6,
+          9,
+          12
+        ]
+      }
+    }
+  ]
+}

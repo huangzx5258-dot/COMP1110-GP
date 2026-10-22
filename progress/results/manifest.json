@@ -1,0 +1,24 @@
+{
+  "study_date": "2026-10-20",
+  "n_runs": 300,
+  "n_pairs": 150,
+  "conditions": [
+    "visible",
+    "hidden"
+  ],
+  "data_origin": "synthetic",
+  "pairing": "identical agents, initial order and keyed per-round commit order",
+  "files_sha256": {
+    "decisions.csv": "1e8f0dff758d80620dda68695e30155387a9f87024843c5254c3cc53b3c089dc",
+    "events.csv": "4cbb22ce384eeab7421495400590dad38fa35c85a52dd7a636142ddcbd0a3c82",
+    "flows.csv": "0b8a75af9a133f20db7fdffebd58f6d968f9a0ddc5edcc644163fc92f351ec50",
+    "paired_differences.csv": "90ed9a3f36d591942396a91d46792729539b81f69597a81682447e530c5ebb67",
+    "paired_summary.csv": "ff7ba1f51ba25cf0f19b907c41bd5510db8893d5e5989dc71209e6f5153c729f",
+    "resolved_config.json": "74b9608e0d69ef6132e5bf939d4dcfc04b100249a02c14a702ec647765f2b77d",
+    "rounds.csv": "7e875a456652d4b68ec2d99890886669179ebdd7732035aca8cff9d3a37a98fb",
+    "runs.csv": "3c7372a59ab11d6ed24fe1ffec2691fbb61b4ad9d876986dc366b1c23a58ed16",
+    "students.csv": "07b6fbaf3116583cc4d200fd62251613c98b3b511d58d072eb9b50644b06b23e",
+    "summary.csv": "031c3639de8f526ab4c78bb78e05ae03652d40927d2ddf1183afface551de326",
+    "worked_example.csv": "3cb54ce77588ca8c5029ecbf5462c7cd9f4b8c2192a2232472b0c6893eb67ece"
+  }
+}

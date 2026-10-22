@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="600" height="120" preserveAspectRatio="xMinYMin meet" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="600" height="120"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-120)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="4" y="42" width="108" height="58" rx="5" ry="5" style="stroke: rgb(53%,61%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="24.488500000000002" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Observe allowed</text>
+			<text x="35.743" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,124) scale(1,-1)">information</text>
+			<path d="M 113,71 L 121,71 Z" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="123 71, 118 74, 118 68" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,36%,56%); fill-rule: evenodd;"/>
+			<rect x="124" y="42" width="108" height="58" rx="5" ry="5" style="stroke: rgb(53%,61%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="143.485" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Estimate benefits</text>
+			<text x="154.735" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,124) scale(1,-1)">and choose</text>
+			<path d="M 233,71 L 241,71 Z" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="243 71, 238 74, 238 68" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,36%,56%); fill-rule: evenodd;"/>
+			<rect x="244" y="42" width="108" height="58" rx="5" ry="5" style="stroke: rgb(53%,61%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="264.241" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Commit changes</text>
+			<text x="256.24" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,124) scale(1,-1)">with new timestamps</text>
+			<path d="M 353,71 L 361,71 Z" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="363 71, 358 74, 358 68" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,36%,56%); fill-rule: evenodd;"/>
+			<rect x="364" y="42" width="108" height="58" rx="5" ry="5" style="stroke: rgb(53%,61%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="397.741" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Approve if</text>
+			<text x="393.736" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,124) scale(1,-1)">batch is due</text>
+			<path d="M 473,71 L 481,71 Z" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="483 71, 478 74, 478 68" style="stroke: rgb(9%,36%,56%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,36%,56%); fill-rule: evenodd;"/>
+			<rect x="484" y="42" width="108" height="58" rx="5" ry="5" style="stroke: rgb(53%,61%,68%); stroke-linecap: butt; stroke-width: 1; fill: rgb(92%,95%,96%); fill-rule: evenodd;"/>
+			<text x="512.4895" y="77" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,154) scale(1,-1)">Record state</text>
+			<text x="512.233" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,124) scale(1,-1)">and continue</text>
+			<text x="149.69549999999998" y="19" style="font-family: Helvetica; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,38) scale(1,-1)">All choices use a shared tick-start snapshot; approvals occur after commits.</text>
+		</g>
+	</g>
+</svg>

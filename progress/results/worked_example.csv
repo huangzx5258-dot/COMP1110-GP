@@ -1,0 +1,5 @@
+focal_rank,condition,observed_rank,stay_probability,stay_benefit,switch_net_benefit,decision,allocated_course,net_utility
+1,visible,1,1.0,10.0,4,stay,0,10
+1,hidden,,0.5,5.0,4,stay,0,10
+2,visible,2,0.0,0.0,4,switch_to_B,1,4
+2,hidden,,0.5,5.0,4,stay,,0.0
